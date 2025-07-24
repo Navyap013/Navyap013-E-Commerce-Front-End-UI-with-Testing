@@ -38,12 +38,6 @@ This project was made with the thought of:
 - SEO;
 - CI/CD;
 - Docker support.
-
-I can describe this as an exhausting experience.<br/>
-Make monorepo with Strapi (with Graphql) – definitely a pain in an ass, but making it type-safe (typescript) is something on a spiritual level.<br/>
-But the most pleasantly part – tweak/config everything (like seriously everything) to make it work with NX.<br/>
-If I knew that before, I would go for the T3 stack:<br>TypeScript, Next.js, tRPC, Prisma, Tailwind.
-
 ## Stack
 
 **Core:** NX, Typescript;
